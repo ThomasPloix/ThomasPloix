@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThomasPloix
+- 👀 I’m interested in little bit of everything 
+- 🌱 I’m currently learning IA, JAVA, Web, 
+- ⚡ I’m currently a student at EPF 
